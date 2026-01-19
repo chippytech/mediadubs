@@ -1,0 +1,16 @@
+# Core
+numpy>=1.23
+soundfile>=0.12
+
+# ASR
+openai-whisper>=20231117
+torch>=2.0
+
+# Translation
+argostranslate>=1.9
+
+# TTS
+piper-tts>=1.2
+
+# Optional but recommended
+tqdm>=4.66
